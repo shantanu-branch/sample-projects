@@ -1,0 +1,6 @@
+framework module Pods_BranchObjective_C {
+  umbrella header "Pods-BranchObjective-C-umbrella.h"
+
+  export *
+  module * { export * }
+}
